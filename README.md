@@ -32,6 +32,14 @@ Olá, meu nome é João Pedro Pereira de Aquino e sou apaixonado por tecnologia.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 
 <br/>
 <br/>
@@ -48,7 +56,7 @@ Olá, meu nome é João Pedro Pereira de Aquino e sou apaixonado por tecnologia.
   />
 
   <img 
-    align="left" 
+    align="right" 
     alt="Linguagens Mais Usadas" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroPereiraAquino&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=9&langs_extra=flutter" 
