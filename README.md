@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Olá, meu nome é João Pedro Pereira de Aquino e sou apaixonado por tecnologia. Sempre em busca de novos desafios e conhecimentos para aprimorar minhas habilidades.
+Sou um profissional dedicado e apaixonado por tecnologia, com formação em redes. Desde o sexto ano do ensino fundamental até o terceiro ano do ensino médio, estudei na Escola SESI Campinas, onde desenvolvi uma base sólida em conceitos de redes e informática. Atualmente, curso o ensino superior em Análise e Desenvolvimento de Sistemas na Faculdade FATESG, onde aprofundo meus conhecimentos técnicos e práticos na área.
 
 ---
 
