@@ -41,16 +41,16 @@ Olá, meu nome é João Pedro Pereira de Aquino e sou apaixonado por tecnologia.
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="Estatísticas do GitHub" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=oxijao&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=JoaoPedroPereiraAquino&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="Linguagens Mais Usadas" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxijao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroPereiraAquino&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=9&langs_extra=flutter" 
   />
 </p>
